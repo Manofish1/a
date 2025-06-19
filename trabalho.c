@@ -155,7 +155,8 @@ int main() {
             case 3: { 
                 printf("\n--- Sobre o Jogo ---\n\n");
                 printf("Desenvolvido em C\n");
-                printf("Por DAVI GON\n\n"); 
+                printf("Por DAVI GONCALVES 2512082031\n\n"); 
+                printf("por VICTORIA PEREIRA 2512082020\n\n");
                 printf("Copyright (C) 2025\n");
                 printf("Pressione ENTER para continuar...");
                 while ((caractereBuffer = getchar()) != '\n' && caractereBuffer != EOF);
